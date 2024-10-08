@@ -42,8 +42,7 @@ class _AiChatState extends State<AiChat> {
   }
 
   void _initializeChat() async {
-    const apiKey =
-        'AIzaSyAA5zqTw5GKeA8STSKxVK94uOM-N5Qzrx0'; // Replace with your actual API key
+    const apiKey = ''; // Replace with your actual API key
     _model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
     _chat = _model.startChat();
 
