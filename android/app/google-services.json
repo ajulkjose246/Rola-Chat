@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037532221316",
+    "project_id": "rolachat-app",
+    "storage_bucket": "rolachat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037532221316:android:185e4f18d9043a2a69d7d1",
+        "android_client_info": {
+          "package_name": "com.quantumweft.rolachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yZ8qeXA303rD2ZQaUyKOCtmaLvSJAPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
